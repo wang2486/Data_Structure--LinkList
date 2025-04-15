@@ -1,3 +1,13 @@
+/**
+  * @file name:LLink.h
+  * @brief    :Functional interface design
+  * @author   :i33akq@163.com
+  * @date     :2025/04/14
+  * @version  :1.0
+  * @note     :None
+  * @CopyRight (C)   2024-2025   i33akq@163.com   ALL Right Reseverd
+*/
+
 #ifndef _LLINK_H
 #define _LLINK_H
 

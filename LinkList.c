@@ -1,7 +1,6 @@
 /**
   * @file name:LinkList.c
-  * @brief    :Linked list basic function realization
-  * @author   :i33akq@163.com
+  * @brief    :function test
   * @date     :2025/04/14
   * @version  :1.0
   * @note     :None

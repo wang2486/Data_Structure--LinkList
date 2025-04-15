@@ -10,7 +10,6 @@
 
 #include "LLink.h"
 
-
 /**
   * @function name:LList_Creat
   * @brief        :Create a linked list and initialize it
